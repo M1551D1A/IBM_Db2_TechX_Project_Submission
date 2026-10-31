@@ -1,3 +1,0 @@
-# Only needed to regenerate transcripts/ from audio/ (transcribe.py). Also needs ffmpeg on PATH.
-openai-whisper==20250625
-imageio-ffmpeg==0.7.0
